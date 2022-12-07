@@ -1,0 +1,23 @@
+{
+  "name": "dojo-desafio-final",
+  "version": "1.0.0",
+  "description": "Projeto de desafio Dojo de Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cy-run": "npx cypress run --browser chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}

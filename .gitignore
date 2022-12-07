@@ -1,0 +1,3 @@
+# arquivo para ignorar pastas e arquivos
+node_modules/
+screenshots/
